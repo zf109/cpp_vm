@@ -1,0 +1,19 @@
+﻿Build started 26/01/2015 10:03:58.
+     1>Project "C:\Users\zf109\Dropbox\share\THE_MISSION\Task1cppVer\Task1cppVer\Task1cppVer.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt VirtualMachine.cpp main.cpp
+         main.cpp
+         VirtualMachine.cpp
+     1>c:\users\zf109\dropbox\share\the_mission\task1cppver\task1cppver\virtualmachine.cpp(41): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\zf109\dropbox\share\the_mission\task1cppver\task1cppver\virtualmachine.cpp(92): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\zf109\dropbox\share\the_mission\task1cppver\task1cppver\virtualmachine.cpp(198): warning C4101: 'intRep' : unreferenced local variable
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\zf109\Dropbox\share\THE_MISSION\Task1cppVer\Debug\Task1cppVer.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\zf109\Dropbox\share\THE_MISSION\Task1cppVer\Debug\Task1cppVer.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\zf109\Dropbox\share\THE_MISSION\Task1cppVer\Debug\Task1cppVer.lib" /MACHINE:X86 Debug\main.obj
+         Debug\VirtualMachine.obj
+         Task1cppVer.vcxproj -> C:\Users\zf109\Dropbox\share\THE_MISSION\Task1cppVer\Debug\Task1cppVer.exe
+     1>Done Building Project "C:\Users\zf109\Dropbox\share\THE_MISSION\Task1cppVer\Task1cppVer\Task1cppVer.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.60

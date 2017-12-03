@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="400px" height="400px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<rect width="400px" height="400px" style="fill:rgb(255,255,255);stroke-width:0;stroke:rgb(0,0,0)"/>
+<line x1="200px" y1="200px" x2="200px" y2="190px" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="200px" y1="190px" x2="200px" y2="180px" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="200px" y1="180px" x2="200px" y2="175px" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="200px" y1="175px" x2="210px" y2="175px" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="210px" y1="175px" x2="220px" y2="175px" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="220px" y1="175px" x2="225px" y2="175px" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="225px" y1="175px" x2="225px" y2="180px" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="225px" y1="180px" x2="225px" y2="185px" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="225px" y1="185px" x2="225px" y2="190px" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="225px" y1="190px" x2="225px" y2="195px" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="225px" y1="195px" x2="225px" y2="200px" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="225px" y1="200px" x2="230px" y2="200px" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="230px" y1="200px" x2="235px" y2="200px" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="235px" y1="200px" x2="240px" y2="200px" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="240px" y1="200px" x2="245px" y2="200px" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="245px" y1="200px" x2="250px" y2="200px" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="250px" y1="200px" x2="250px" y2="195px" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="250px" y1="195px" x2="250px" y2="190px" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="250px" y1="190px" x2="250px" y2="185px" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="250px" y1="185px" x2="250px" y2="180px" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="250px" y1="180px" x2="250px" y2="175px" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="250px" y1="175px" x2="255px" y2="175px" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="255px" y1="175px" x2="260px" y2="175px" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="260px" y1="175px" x2="265px" y2="175px" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="265px" y1="175px" x2="270px" y2="175px" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="270px" y1="175px" x2="275px" y2="175px" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="275px" y1="175px" x2="275px" y2="180px" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="275px" y1="180px" x2="275px" y2="185px" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="275px" y1="185px" x2="275px" y2="190px" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="275px" y1="190px" x2="275px" y2="195px" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="275px" y1="195px" x2="275px" y2="200px" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="275px" y1="200px" x2="280px" y2="200px" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="280px" y1="200px" x2="285px" y2="200px" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="285px" y1="200px" x2="290px" y2="200px" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="290px" y1="200px" x2="295px" y2="200px" style="stroke:rgb(0,0,0);stroke-width:1"/>
+<line x1="295px" y1="200px" x2="300px" y2="200px" style="stroke:rgb(0,0,0);stroke-width:1"/>
+</svg>

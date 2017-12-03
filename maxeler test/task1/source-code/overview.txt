@@ -1,0 +1,20 @@
+Overwrite this file with:
+* A description of the other files in this directory.
+* Details of how to build/run your VM.
+* Any other information pertaining to your design you feel is relevant.
+
+Note you must not make sub-directories or include binary files in this
+directory.
+
+
+
+I choose to use c++ as the coding language as it is the most familiar oop langruage to me. There is only one class  for task one: the VirtualMachine class, declared in VirtualMachine.h and the relavent functions are defined in VirtualMachine.cpp. All the libraries used are standard in c++. It can be directly built and compiled with the main.cpp.
+
+The VirtualMachine mainly has two main methods: 
+
+VirtualMachine::LoadingVMimage(const char *fileName): load a .bin file to a 32bit signed int array as instructed in the task1 describtion.
+
+VirtualMachine::InstructionExcution(): execute the instructions contained in the data.
+
+
+In order to complete task2. VirtualMachine class provided a method to read input from a string. that is the SetInputString(string str). To use the method we need to toggle the inputFromString flag to true.

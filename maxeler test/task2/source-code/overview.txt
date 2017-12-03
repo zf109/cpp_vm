@@ -1,0 +1,7 @@
+Overwrite this file with:
+* A description of the other files in this directory.
+* Details of how to build/run your solution to task2.
+* Any other information pertaining to your design you feel is relevant.
+
+Note you must not make sub-directories or include binary files in this
+directory.
